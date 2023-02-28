@@ -1,0 +1,54 @@
+body{
+    background-color: #A3B1EE;
+}
+.navbar-brand{
+    font-family: viga;
+}
+
+.jumbotron{
+    padding-top: 30px;
+    background-color: #26292E;
+    color: #A3B1EE;
+    
+}
+
+#about{
+    background-color: #607ADB;
+    /* margin-top: 115px; */
+}
+
+.About-me h2{
+    color: #26292E;
+    padding-top: -20px;
+}
+
+.About-me p{
+    font-size: 15px;
+    color: #26292E;
+}
+
+
+#projects{
+    background-color: #A3B1EE;
+}
+
+.project-1{
+    padding-top: 20px;
+}
+
+#contact{
+    background-color: #26292E;
+    color: white;
+    height: 500px;
+}
+
+.footer{
+    height: 100px;
+    background-color: #2f323b;
+    color: white;
+    text-align: center;
+}
+
+.footer p{
+    padding-top: 50px;
+}
