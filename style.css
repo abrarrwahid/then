@@ -40,6 +40,7 @@ body{
     background-color: #26292E;
     color: white;
     height: 600px;
+    margin-top: -20px;
 }
 
 .footer{
@@ -55,4 +56,16 @@ body{
 
 section{
     padding-top: 5rem;
+}
+
+#gallery{
+    background-color: #26292E;
+}
+
+.gallery-img{
+    width: 100%;
+}
+
+#gallery .row > *{
+    padding: 0;
 }
